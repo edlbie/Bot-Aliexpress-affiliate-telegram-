@@ -1,4 +1,4 @@
-t.me/Freelanceprohub
+@Freelanceprohub
 AliExpress Affiliate Bot - Marketing Information
 AliExpress Affiliate Bot - Your Ultimate Affiliate Marketing Solution
 What is AliExpress Affiliate Bot?
@@ -122,4 +122,4 @@ Buy on Ko-fi
 خادم أساسي لاستضافة البوت (يمكن تشغيله على VPS منخفض التكلفة)
 روابط مهمة
 🎥 شرح البوت على يوتيوب مع استضافة مجانية: اضغط هنا لمشاهدة الفيديو
-🛒 رابط شراء البوت: تواثل معنا على الخاص على التلقرام t.me/Freelanceprohub
+🛒 رابط شراء البوت: تواثل معنا على الخاص على التلقرام @Freelanceprohub
