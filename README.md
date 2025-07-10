@@ -1,4 +1,6 @@
+https://www.facebook.com/share/1EKxKHERmi/?mibextid=wwXIfr
 @Freelanceprohub
+
 AliExpress Affiliate Bot - Marketing Information
 AliExpress Affiliate Bot - Your Ultimate Affiliate Marketing Solution
 What is AliExpress Affiliate Bot?
@@ -57,13 +59,9 @@ AliExpress Affiliate API credentials
 Basic server to host the bot (can run on low-cost VPS)
 Image
 
-📺 Video Tutorial
-Want to see how the bot works in action? Watch the full video tutorial on YouTube:
-
 ▶️ AliExpress Affiliate Bot - Full Setup & free host
 
-AliExpress Affiliate Bot
-Buy on Ko-fi
+(https://www.facebook.com/share/1EKxKHERmi/?mibextid=wwXIfr)
 
 بوت الإحالة لعلي إكسبرس - حلك النهائي للتسويق بالعمولة
 ما هو بوت الإحالة لعلي إكسبرس؟
@@ -111,8 +109,6 @@ Buy on Ko-fi
 المسوقون بالعمولة المتخصصون في منتجات علي إكسبرس
 الشركات التجارية الإلكترونية التي تتطلع إلى توسيع قنوات التسويق الخاصة بها
 المؤثرون الذين يوصون بالمنتجات بانتظام
-خيارات التخصيص
-قالب تراكب صورة مخصص
 أزرار لوحة مفاتيح مضمنة قابلة للتكوين
 رسالة ترحيب قابلة للتعديل
 عرض معلومات المنتج قابل للتخصيص
@@ -121,5 +117,5 @@ Buy on Ko-fi
 بيانات اعتماد API للإحالة من علي إكسبرس
 خادم أساسي لاستضافة البوت (يمكن تشغيله على VPS منخفض التكلفة)
 روابط مهمة
-🎥 شرح البوت على يوتيوب مع استضافة مجانية: اضغط هنا لمشاهدة الفيديو
 🛒 رابط شراء البوت: تواثل معنا على الخاص على التلقرام @Freelanceprohub
+او الفيسبوك https://www.facebook.com/share/1EKxKHERmi/?mibextid=wwXIfr
