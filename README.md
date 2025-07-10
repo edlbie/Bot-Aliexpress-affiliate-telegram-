@@ -2,6 +2,7 @@ https://www.facebook.com/share/1EKxKHERmi/?mibextid=wwXIfr
 @Freelanceprohub
 
 AliExpress Affiliate Bot - Marketing Information
+price 3.99$/month 
 AliExpress Affiliate Bot - Your Ultimate Affiliate Marketing Solution
 What is AliExpress Affiliate Bot?
 AliExpress Affiliate Bot is a powerful Telegram bot designed to revolutionize your affiliate marketing business. This bot automatically converts regular AliExpress product links into high-converting affiliate links, helping you maximize your commission earnings with minimal effort.
@@ -117,6 +118,7 @@ Image
 بيانات اعتماد API للإحالة من علي إكسبرس
 خادم أساسي لاستضافة البوت (يمكن تشغيله على VPS منخفض التكلفة)
 روابط مهمة
+سعر البوت 3.99$/للشهر فقط 
 🛒 رابط شراء البوت: https://ko-fi.com/shopexpress
 
 بعد الدفع تواصل معنا على الخاص على التلقرام @Freelanceprohub
