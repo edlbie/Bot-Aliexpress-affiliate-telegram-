@@ -1,111 +1,125 @@
-# AliExpress Affiliate Bot
+t.me/Freelanceprohub
+AliExpress Affiliate Bot - Marketing Information
+AliExpress Affiliate Bot - Your Ultimate Affiliate Marketing Solution
+What is AliExpress Affiliate Bot?
+AliExpress Affiliate Bot is a powerful Telegram bot designed to revolutionize your affiliate marketing business. This bot automatically converts regular AliExpress product links into high-converting affiliate links, helping you maximize your commission earnings with minimal effort.
 
-<div dir="ltr" lang="en">
+Key Features
+🚀 Multiple Affiliate Link Types
+ExtraCoin Links: Special links with extra coin rewards
+Coin Discount Links: Links with coin-based discounts
+SuperDeals Links: Links to super deal promotions
+Limited Offers: Time-sensitive promotional links
+BigSave Links: Links with maximum savings
+Bundle Deals: Links for package deals and bundles
+📊 Detailed Product Information
+Clean product titles without unnecessary text
+Current and original prices with discount percentage
+Product ratings and seller information
+High-quality product images with custom overlay
+💼 Professional Features
+Customizable inline keyboard buttons for additional promotions
+Support for direct links, forwarded messages, and photo captions
+Loading indicator during processing
+Error handling with user-friendly messages
+Multi-language support
+🛠️ Technical Advantages
+Fast and reliable API integration with AliExpress
+Asynchronous processing for quick responses
+Proxy support for reliable connection
+Clean code structure for easy maintenance and updates
+Business Benefits
+💰 Revenue Generation
+Earn commissions on every purchase made through your affiliate links
+Multiple link types to maximize conversion rates
+Professional presentation increases user trust and click-through rates
+🔄 Automation
+Save hours of manual work generating affiliate links
+Automatically extracts product IDs from any AliExpress link format
+Handles all API communication in the background
+📱 User Engagement
+Professional-looking messages with product details
+Custom image overlays to brand the product images
+Interactive buttons for additional engagement
+Target Audience
+Telegram channel owners focusing on product promotions
+Affiliate marketers specializing in AliExpress products
+E-commerce businesses looking to expand their marketing channels
+Influencers who regularly recommend products
+Customization Options
+Custom image overlay template
+Configurable inline keyboard buttons
+Adjustable welcome message
+Customizable product information display
+Technical Requirements
+Telegram Bot API token
+AliExpress Affiliate API credentials
+Basic server to host the bot (can run on low-cost VPS)
+Image
 
-## Overview
-AliExpress Affiliate Bot is a Telegram bot that helps users generate affiliate links for AliExpress products. The bot extracts product information, generates multiple types of affiliate links, and provides detailed product information including prices, discounts, and ratings.
+📺 Video Tutorial
+Want to see how the bot works in action? Watch the full video tutorial on YouTube:
 
-## Features
-- Extract product IDs from AliExpress links
-- Generate multiple types of affiliate links (ExtraCoin, Coin, SuperDeals, etc.)
-- Display product details including title, price, discount, rating, and store name
-- Apply custom overlay template to product images
-- Support for forwarded messages and photo captions containing AliExpress links
-- Multi-language support
+▶️ AliExpress Affiliate Bot - Full Setup & free host
 
-## Requirements
-- Python 3.7+
-- Telegram Bot API token
-- AliExpress Affiliate API credentials
-- Required Python packages (see below)
+AliExpress Affiliate Bot
+Buy on Ko-fi
 
-## Required Packages
-```
-telegram-python-bot
-aliexpress_api
-python-dotenv
-Pillow
-requests
-asyncio
-```
+بوت الإحالة لعلي إكسبرس - حلك النهائي للتسويق بالعمولة
+ما هو بوت الإحالة لعلي إكسبرس؟
+بوت الإحالة لعلي إكسبرس هو بوت تيليجرام قوي مصمم لإحداث ثورة في أعمال التسويق بالعمولة الخاصة بك. يقوم هذا البوت تلقائيًا بتحويل روابط منتجات علي إكسبرس العادية إلى روابط إحالة عالية التحويل، مما يساعدك على زيادة أرباح العمولات الخاصة بك بأقل جهد ممكن.
 
-## Environment Variables
-Create a `.env` file with the following variables:
-```
-TRACKING_ID=your_tracking_id
-KEY=your_api_key
-SECRET=your_api_secret
-TELEGRAM_TOKEN=your_telegram_bot_token
-COUNTRY_CODE=your_country_code
-CURRENCY=your_currency
-LOADING_STICKER=sticker_file_id
-```
-
-## Usage
-1. Start the bot with `/start`
-2. Send an AliExpress product link directly
-3. Or forward a message containing an AliExpress link
-4. The bot will respond with product details and affiliate links
-
-## Installation
-1. Clone the repository
-2. Install the required packages: `pip install -r requirements.txt`
-3. Set up your environment variables in a `.env` file
-4. Run the bot: `python main.py`
-
-</div>
-
-<div dir="rtl" lang="ar">
-
-## نظرة عامة
-بوت الإحالة لعلي إكسبرس هو بوت تيليجرام يساعد المستخدمين على إنشاء روابط إحالة لمنتجات علي إكسبرس. يقوم البوت باستخراج معلومات المنتج، وإنشاء أنواع متعددة من روابط الإحالة، وتوفير معلومات تفصيلية عن المنتج بما في ذلك الأسعار والخصومات والتقييمات.
-
-## المميزات
-- استخراج معرفات المنتجات من روابط علي إكسبرس
-- إنشاء أنواع متعددة من روابط الإحالة (إكسترا كوين، كوين، سوبر ديلز، إلخ)
-- عرض تفاصيل المنتج بما في ذلك العنوان والسعر والخصم والتقييم واسم المتجر
-- تطبيق قالب تراكب مخصص على صور المنتجات
-- دعم الرسائل المعاد توجيهها وتعليقات الصور التي تحتوي على روابط علي إكسبرس
-- دعم متعدد اللغات
-
-## المتطلبات
-- بايثون 3.7+
-- رمز API لبوت تيليجرام
-- بيانات اعتماد API للإحالة من علي إكسبرس
-- حزم بايثون المطلوبة (انظر أدناه)
-
-## الحزم المطلوبة
-```
-telegram-python-bot
-aliexpress_api
-python-dotenv
-Pillow
-requests
-asyncio
-```
-
-## متغيرات البيئة
-قم بإنشاء ملف `.env` بالمتغيرات التالية:
-```
-TRACKING_ID=your_tracking_id
-KEY=your_api_key
-SECRET=your_api_secret
-TELEGRAM_TOKEN=your_telegram_bot_token
-COUNTRY_CODE=your_country_code
-CURRENCY=your_currency
-LOADING_STICKER=sticker_file_id
-```
-
-## الاستخدام
-1. ابدأ البوت باستخدام الأمر `/start`
-2. أرسل رابط منتج علي إكسبرس مباشرة
-3. أو قم بإعادة توجيه رسالة تحتوي على رابط علي إكسبرس
-4. سيرد البوت بتفاصيل المنتج وروابط الإحالة
-
-## التثبيت
-1. استنسخ المستودع
-2. قم بتثبيت الحزم المطلوبة: `pip install -r requirements.txt`
-3. قم بإعداد متغيرات البيئة الخاصة بك في ملف `.env`
-4. قم بتشغيل البوت: `python main.py`
-
-</div>
+الميزات الرئيسية
+🚀 أنواع متعددة من روابط الإحالة
+روابط إكسترا كوين: روابط خاصة مع مكافآت عملات إضافية
+روابط خصم العملات: روابط مع خصومات قائمة على العملات
+روابط السوبر ديلز: روابط لعروض ترويجية مميزة
+العروض المحدودة: روابط ترويجية محدودة زمنيًا
+روابط البيغ سايف: روابط مع أقصى توفير ممكن
+صفقات الحزم: روابط لصفقات الحزم والعروض المجمعة
+📊 معلومات تفصيلية عن المنتج
+عناوين منتجات نظيفة بدون نص غير ضروري
+الأسعار الحالية والأصلية مع نسبة الخصم
+تقييمات المنتج ومعلومات البائع
+صور منتجات عالية الجودة مع تراكب مخصص
+💼 ميزات احترافية
+أزرار لوحة مفاتيح مضمنة قابلة للتخصيص للعروض الترويجية الإضافية
+دعم للروابط المباشرة والرسائل المعاد توجيهها وتعليقات الصور
+مؤشر تحميل أثناء المعالجة
+معالجة الأخطاء مع رسائل سهلة الاستخدام
+دعم متعدد اللغات
+🛠️ المزايا التقنية
+تكامل API سريع وموثوق مع علي إكسبرس
+معالجة غير متزامنة للاستجابات السريعة
+دعم البروكسي للاتصال الموثوق
+هيكل كود نظيف لسهولة الصيانة والتحديثات
+فوائد الأعمال
+💰 توليد الإيرادات
+كسب العمولات على كل عملية شراء تتم من خلال روابط الإحالة الخاصة بك
+أنواع متعددة من الروابط لزيادة معدلات التحويل
+العرض الاحترافي يزيد من ثقة المستخدم ومعدلات النقر
+🔄 الأتمتة
+توفير ساعات من العمل اليدوي في إنشاء روابط الإحالة
+استخراج معرفات المنتجات تلقائيًا من أي تنسيق لرابط علي إكسبرس
+التعامل مع جميع اتصالات API في الخلفية
+📱 مشاركة المستخدم
+رسائل ذات مظهر احترافي مع تفاصيل المنتج
+تراكبات صور مخصصة لوضع علامة تجارية على صور المنتجات
+أزرار تفاعلية لمزيد من المشاركة
+الجمهور المستهدف
+أصحاب قنوات تيليجرام التي تركز على الترويج للمنتجات
+المسوقون بالعمولة المتخصصون في منتجات علي إكسبرس
+الشركات التجارية الإلكترونية التي تتطلع إلى توسيع قنوات التسويق الخاصة بها
+المؤثرون الذين يوصون بالمنتجات بانتظام
+خيارات التخصيص
+قالب تراكب صورة مخصص
+أزرار لوحة مفاتيح مضمنة قابلة للتكوين
+رسالة ترحيب قابلة للتعديل
+عرض معلومات المنتج قابل للتخصيص
+المتطلبات التقنية
+رمز API لبوت تيليجرام
+بيانات اعتماد API للإحالة من علي إكسبرس
+خادم أساسي لاستضافة البوت (يمكن تشغيله على VPS منخفض التكلفة)
+روابط مهمة
+🎥 شرح البوت على يوتيوب مع استضافة مجانية: اضغط هنا لمشاهدة الفيديو
+🛒 رابط شراء البوت: تواثل معنا على الخاص على التلقرام t.me/Freelanceprohub
