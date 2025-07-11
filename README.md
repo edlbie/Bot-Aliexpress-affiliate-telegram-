@@ -1,4 +1,4 @@
-🚀 **AliExpress Affiliate Bot - Your 24/7 Money Machine!** 💸  
+🚀 **AliExpress Affiliate Bot - Your 24/7 Money Machine** 💸  
 
 🔥 **Automatically Convert Links to Commissions!**  
 Turn ANY AliExpress URL into profit with one click!  
