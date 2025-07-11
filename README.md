@@ -20,7 +20,7 @@ Turn ANY AliExpress URL into profit with one click!
 
 📩 **Get Yours Now!**  
 👉 [Message Us on Facebook](https://www.facebook.com/share/1EKxKHERmi/?mibextid=wwXIfr)  
-📲 Or Telegram: @Freelanceprohub  
+📲 Or Telegram: https://t.me/Freelanceprohub
 
 ---
 
@@ -46,4 +46,4 @@ Turn ANY AliExpress URL into profit with one click!
 
 📩 **احصل عليه الآن!**  
 👉 [راسلنا على فيسبوك](https://www.facebook.com/share/1EKxKHERmi/?mibextid=wwXIfr)  
-📲 أو تواصل عبر التليجرام: @Freelanceprohub  
+📲 أو تواصل عبر التليجرام:   https://t.me/Freelanceprohub
